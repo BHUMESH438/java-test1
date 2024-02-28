@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../SpringSmaple1/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringSmaple2/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringSmaple4-Wiring/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringSmaple5-AutoWiring/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringSmaple6-AutoWiring-multipleBeansofsametype/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringSmaple8-SigletonBeanScope/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-3.1.2/example_14/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-3.1.2/example_15/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-3.1.2/example_16/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-3.1.2/example_13/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringSmaple7-AwringDiB/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-3.1.2/example_17/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
